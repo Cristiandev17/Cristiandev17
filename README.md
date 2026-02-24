@@ -109,7 +109,7 @@ I believe good architecture enables teams to scale, maintain, and evolve systems
 
 ## 🤝 Let's Connect
 
-- 🔗LinkedIn: [(Linkedin)](https://www.linkedin.com/in/cristian-camilo-aristizabal-tobon-269bb1102/)
+- 🔗LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/cristian-camilo-aristizabal-tobon-269bb1102/)
 - 📩 Email: cristia.developer@outlook.com
 
 ---
