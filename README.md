@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cristian Aristizabal</h1>
-<h3 align="center">Senior Backend Engineer | .NET Architect | API Specialist</h3>
+<h1 align="center">Hi 👋, I'm Cristian Camilo Aristizabal Tobon</h1>
+<h3 align="center">Senior Mobile & Tech Lead | .NET (MAUI, Xamarin, C#, Core) & Flutter | Azure Cloud & AI Integrations | Azure OpenAI & Semantic Kernel | Scalable App Architect</h3>
 
 <p align="center">
 Designing scalable, maintainable, and high-performance backend systems using modern .NET technologies.
@@ -9,8 +9,9 @@ Designing scalable, maintainable, and high-performance backend systems using mod
 
 ## 🧠 Professional Summary
 
-Backend Engineer with 10+ years of experience designing and building distributed systems, RESTful APIs, and scalable backend architectures.
-
+Senior Software Engineer with 11+ years of experience in scalable backend architecture and cross-platform mobile development.
+Expert in .NET backend systems and Clean Architecture, with Flutter as a primary mobile technology, complemented by strong experience in Xamarin and .NET MAUI.
+Building intelligent systems using Semantic Kernel, embeddings, and RAG-based AI orchestration.
 Strong focus on:
 
 - Clean Architecture
@@ -25,12 +26,11 @@ Experienced in both mobile and backend ecosystems, with a deep understanding of 
 
 ## ⚙️ Core Architecture Expertise
 
-✔ Designing layered architectures (Domain, Application, Infrastructure, API)  
 ✔ Implementing Clean Architecture & separation of concerns  
 ✔ Applying SOLID principles in real-world systems  
 ✔ Dependency Injection & service lifetimes management  
 ✔ Asynchronous & high-performance APIs  
-✔ Hybrid data systems (SQL + NoSQL)  
+✔ Data systems (SQL + NoSQL)  
 ✔ Authentication & Authorization with JWT  
 
 ---
@@ -85,7 +85,7 @@ Optimized performance and improved system maintainability.
 
 ---
 
-### 🔹 Hybrid Data Backend System
+### 🔹 Data Backend System
 
 Built a backend integrating SQL Server for transactional integrity and MongoDB for flexible document storage.  
 Applied repository patterns and abstraction layers to isolate infrastructure dependencies.
@@ -109,8 +109,8 @@ I believe good architecture enables teams to scale, maintain, and evolve systems
 
 ## 🤝 Let's Connect
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- 🔗LinkedIn: [(Linkedin)](https://www.linkedin.com/in/cristian-camilo-aristizabal-tobon-269bb1102/)
+- 📩 Email: cristia.developer@outlook.com
 
 ---
 
