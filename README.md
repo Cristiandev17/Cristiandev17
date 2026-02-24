@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Cristian Camilo Aristizabal Tobon👋
 
-<!--
-**Cristiandev17/Cristiandev17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 11+ years of experience in .NET and Mobile Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- .NET Core
+- ASP.NET Core Web API
+- SQL Server / MongoDB
+- Docker
+- Clean Architecture
+- Unit Testing
+- .Net Maui / Xamarin 
+- Flutter
